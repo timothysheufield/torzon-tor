@@ -35,4 +35,6 @@ This platform serves as an educational resource. We do not endorse any illegal a
 
 The information provided is solely for educational purposes.
 
-Update:  06/26/2025 09-10 Corrected broken links in issue templates
+
+
+Update:  04.07.2025
